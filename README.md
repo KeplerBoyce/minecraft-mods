@@ -10,6 +10,8 @@ Additions include:
 - Orange, lemon, and lime trees (right-click to pick fruit)
 - A few crafting recipes
 
+NOTE: This mod is in a very beta stage right now, many things are still a work-in-progress
+
 Things I'm doing/thinking about for future updates (somewhat in order of most to least on my mind):
 
 - Have yet to get new biomes to occur naturally
@@ -17,6 +19,7 @@ Things I'm doing/thinking about for future updates (somewhat in order of most to
   - Other biomes can be seen in the "Buffet" option menu when creating a new world
 - More crafting recipes for the foods for sure
 - Some fixes to make berry bushes and fruit trees regrow fruit
+- Fix textures for corn and rice plants (currently only one stage)
 - Other wood stuff like fences, buttons, doors, trapdoors, boats, etc.
 - Bananas are still a W.I.P
 - Currently also some crashes caused by ocean monuments for unkown reasons, will look into this problem
