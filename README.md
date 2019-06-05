@@ -1,4 +1,4 @@
-# minecraft-mods
+# keplerfoodcraft
 A mod that adds new foods, plants, and trees.
 
 Additions include:
