@@ -16,7 +16,11 @@ Things I'm doing/thinking about for future updates (somewhat in order of most to
 
 - Have yet to get new biomes to occur naturally
   - For this reason, only fruit trees (orange, lemon, lime) which spawn in plains biomes can be found in regular survival
-  - Other biomes can be seen in the "Buffet" option menu when creating a new world
+  - New biomes can be found in the "Buffet" option menu when creating a new world
+    - Coniferous Forest
+    - Palm Beach
+    - Redwood Forest
+    - Snowy Pine Forest
 - More crafting recipes for the foods for sure
 - Some fixes to make berry bushes and fruit trees regrow fruit
 - Fix textures for corn and rice plants (currently only one stage)
