@@ -1,10 +1,6 @@
 # keplerfoodcraft
 A mod by Kepler that adds new foods, plants, and trees.
 
-------------------------------------------------------------------------------------------
-NOTE: This mod is in a very beta stage right now, many things are still a work-in-progress
-------------------------------------------------------------------------------------------
-
 Additions include:
 
 - Strawberry and blueberry bushes (right-click to pick fruit)
@@ -13,6 +9,8 @@ Additions include:
   - Along with planks and pressure plates
 - Orange, lemon, and lime trees (right-click to pick fruit)
 - A few crafting recipes
+
+# NOTE: This mod is in a very beta stage right now, many things are still a work-in-progress
 
 Things I'm doing/thinking about for future updates (somewhat in order of most to least on my mind):
 
