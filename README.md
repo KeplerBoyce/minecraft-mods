@@ -1,6 +1,8 @@
 # keplerfoodcraft
 A mod by Kepler that adds new foods, plants, and trees.
 
+# Requires Forge 1.13.2 to be installed
+
 Additions include:
 
 - Strawberry and blueberry bushes (right-click to pick fruit)
