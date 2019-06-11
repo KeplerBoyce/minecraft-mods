@@ -1,5 +1,5 @@
 # keplerfoodcraft
-A mod by Kepler that adds new foods, plants, and trees. Requires Forge 1.13.2 to be installed
+A mod by Kepler that adds new foods, plants, and trees. Requires Forge 1.13.2 to be installed.
 
 Additions include:
 
