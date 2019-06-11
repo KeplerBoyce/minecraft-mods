@@ -4,8 +4,7 @@ A mod by Kepler that adds new foods, plants, and trees. Requires Forge 1.13.2 to
 Additions include:
 
 - Strawberry and blueberry bushes (right-click to pick fruit)
-- Palm trees with coconuts
-- Redwood and pine trees (pine trees can drop cones)
+- Palm trees with coconuts, pine trees which drop cones, and redwood trees
   - Along with planks and pressure plates
 - Orange, lemon, and lime trees (right-click to pick fruit)
 - A few crafting recipes
